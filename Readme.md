@@ -1,4 +1,4 @@
 ### Kaggle House prices repo
 
-Link: https://github.com/scenthr/kaggle-house-prices
+Link: https://www.kaggle.com/c/house-prices-advanced-regression-techniques/overview
 
